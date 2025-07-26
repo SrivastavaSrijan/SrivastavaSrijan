@@ -1,16 +1,17 @@
-### Hello! 👋🏻
+# Hey there.
 
-I'm Srijan. You can mostly find me having a coffee. 
+## Srijan is building things that look <span style="color:#fb923c;font-weight:bold;">good</span>
 
-- 😄 Preferred pronouns: [he/him](https://pronoun.is/he)
-- 🌱 I’m open to new opportunities, check me out [here](https://www.srijansrivastava.com/)
-- 👯 I think you could use [Pomodoro Clock](https://github.com/SrivastavaSrijan/Pomodoro-Clock-Source-Code)
-- 🤝 I’d love for you to check out [MNML Store](https://github.com/SrivastavaSrijan/MNML-Store-Source-Code)
-- 👨‍💻 All of my projects are available at [my portfolio](https://www.srijansrivastava.com/projects)
-- 📝 I regularly write articles on [my blog](https://www.srijansrivastava.com/blog)
-- 💬 Ask me about **democratizing the internet**
-- 📫 How to reach me **srijan.srivastava35@gmail.com**
-- 📄 Know about my experiences - [download my resume](https://drive.google.com/file/d/1q6X_YaarffzIsqgrJY1mxCQKHr4j2nvJ/view)
+I’ve worked as a Founding Engineer on large-scale applications across  [enterprise accessibility](https://origin-www.veritas.com/en/uk/insights/ediscovery-platform), [early-stage women’s health](https://proactiveforher.com/), &  [agentic recruiting.](https://www.seekout.com/platform/spot)
 
-[![Twitter](https://img.shields.io/badge/veryverycoffee%20-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/veryverycoffee)
-[![LinkedIn](https://img.shields.io/badge/srijansrivastava35%20-%231DA1F2.svg?&style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/srijansrivastava35/)
+I believe design is a decision that solves problems—and every decision should bring delight.
+
+This [portfolio](https://www.srijansrivastava.com/) is that philosophy—*in practice.*
+
+---
+
+### 📬 Get in touch  
+- 🧠 [GitHub](https://github.com/SrivastavaSrijan?tab=repositories)  
+- 📄 [Resume](https://drive.google.com/file/d/1Bbgt0CcSNrmEBg39G2ppwgB8XA5JXIt-/view?usp=drivesdk)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/srijansrivastava35/)  
+- 📰 [Substack](https://substack.com/@srijansrivastava1)
